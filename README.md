@@ -94,18 +94,15 @@ JOIN Department d ON e.dept_id = d.dept_id;
 
 ---
 
-## 📣 Contribution
+## ✅ Summary
 
-Feel free to fork this repo, add new queries, or create issue threads if you find bugs or want improvements!
-
----
-
-### 🌟 **Don't forget to**
-
-- ⭐ Star the repository
-- 🍴 Fork it
-- 📢 Share with friends & developers preparing for interviews
-- 🔁 Keep practicing daily!
+This project demonstrates:
+- ✅ Creating a database
+- ✅ Working with primary and foreign keys
+- ✅ CRUD operations
+- ✅ Filtering and sorting
+- ✅ Aggregate functions
+- ✅ Joins
 
 ---
 
