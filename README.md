@@ -97,12 +97,12 @@ JOIN Department d ON e.dept_id = d.dept_id;
 ## ✅ Summary
 
 This project demonstrates:
-- ✅ Creating a database
-- ✅ Working with primary and foreign keys
-- ✅ CRUD operations
-- ✅ Filtering and sorting
-- ✅ Aggregate functions
-- ✅ Joins
+- Creating a database
+- Working with primary and foreign keys
+- CRUD operations
+- Filtering and sorting
+- Aggregate functions
+- Joins
 
 ---
 
