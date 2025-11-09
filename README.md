@@ -88,7 +88,7 @@ JOIN Department d ON e.dept_id = d.dept_id;
 
 ## 📂 How to Run
 
-1. Install MySQL and open any MySQL client (Workbench / CLI / phpMyAdmin)
+1. Install MySQL and open MySQL client (Workbench)
 2. Run the provided SQL script step by step
 3. Query the tables to test
 
